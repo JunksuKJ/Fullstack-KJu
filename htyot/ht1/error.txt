@@ -1,0 +1,10 @@
+PGS logista:
+14:10:00	11/05/04	PGServer	Error	ID:2388	CCacheManager.RemoveUnusedModelsFromCache	Exception: Assertion failure (D:\Source\PG\ProcessGuide [7.X]\Source 7.3\AppServer\CacheManager.pas, line 448)
+14:10:00	11/05/04	PGServer	Error	ID:2388	CScheduler.Execute	Exception: Assertion failure (D:\Source\PG\ProcessGuide [7.X]\Source 7.3\AppServer\CacheManager.pas, line 448)
+
+WAS:n lokista
+14:07:18	11/05/04	PGPLUGIN	Error	ID:3752	FATAL: EListError: CMetaManager.RefreshModelFolderInformationList	List index out of bounds (22)
+14:07:19	11/05/04	PGPLUGIN	Error	ID:3752	FATAL: EListError: CMetaManager.HandleModelChange/NHandleDeletedModel	List index out of bounds (22)
+14:07:19	11/05/04	PGPLUGIN	Error	ID:3752	FATAL: EQPRFatalException: CCallbackThread.FModelChanged	List index out of bounds (22)
+14:07:19	11/05/04	PGPLUGIN	Error	ID:3752	FATAL: EQPRFatalException: CCallbackThread.Execute	List index out of bounds (22)
+
